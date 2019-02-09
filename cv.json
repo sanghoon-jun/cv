@@ -4,6 +4,78 @@
     "name": "Sanghoon Jun",
     "job_title": "Data Scientist & Full Stack Developer",
     "address": "San Jose, California, USA",
-    "photo_url":"https://raw.githubusercontent.com/sanghoon-jun/cv/master/profile.png"
-  }
+    "email": "sanghoon.jun.ds@gmail.com",
+    "photo_url": "https://raw.githubusercontent.com/sanghoon-jun/cv/master/profile.png"
+  },
+  "social": {
+    "linkedin": "",
+    "github": "",
+    "google_scholar": "",
+    "instagram": ""
+  },
+  "education": [
+    {
+      "start_at": "2010",
+      "end_at": "2015",
+      "degree": "Ph.D. in Electronics, Electrical and Computer Engineering",
+      "department": "Multimedia Information Laboratory",
+      "institute": "Korea Unversity"
+    },
+    {
+      "start_at": "2010",
+      "end_at": "2008",
+      "degree": "M.S. in Electronics, Electrical and Computer Engineering",
+      "department": "Multimedia Information Laboratory",
+      "institute": "Korea Unversity"
+    },
+    {
+      "start_at": "2004",
+      "end_at": "2008",
+      "degree": "B.S. in Electrical Engineering",
+      "institute": "Korea Unversity"
+    }
+  ],
+  "work_experience": [
+    {
+      "start_at": "2017",
+      "end_at": "2018",
+      "position": "Senior Researcher",
+      "company": "Seerslab",
+      "Summary": "Leading a back-end team and machine learning TF in the startup company. Developed cloud-based systems for supporting the mobile application of 100k daily active users and Improved core algorithms of the service using machine learning technologies.",
+      "Achievements": [
+        "Improved an existing face tracking engine of the company by applying deep learning, data augmentations, and predictive programming and sold its SDK to application and hardware companies",
+        "Developed the contents management system and content delivery service for the mobile application",
+        "Designed and launched server-less services for 100k DAU without any server failure"
+      ]
+    },
+    {
+      "start_at": "2015",
+      "end_at": "2016",
+      "position": "Postdoctoral Research Fellow",
+      "company": "Asan Medical Center",
+      "Summary": "Managing computer-aided diagnosis team of a research laboratory and related projects focused on developing disease quantification and similar disease case retrieval system for clinical support.",
+      "Achievements": [
+        "Analyzed mechanism and implemented classifications of lung diseases using deep learning algorithm with +5% improvement(91% to 96%, in comparison with shallow machine learning algorithm) in pattern classification",
+        "Designed and implemented content-based retrieval system using image pattern recognition and machine learning",
+        "Contributed to the enhancement of technologies for imaging, segmentation, and prediction by applying machine learning techniques to brain, colon, kidney, heart, and lung diseases"
+      ]
+    },
+    {
+      "start_at": "2008",
+      "end_at": "2015",
+      "position": "Academic Research Scientist",
+      "company": "Korea University",
+      "Summary": "Designed, conducted, and completed research on the development of music information retrieval systems as well as music recommendation systems. Studies cover the areas of audio signal processing, large scale information analytics, and machine learning.",
+      "Achievements": [
+        "Developed cover song identification and similar song retrieval system having 85% accuracy of genre- based search",
+        "Designed and developed content-based music recommendation system based on user emotion and preferences having 84% user satisfaction score",
+        "Designed and developed collaborative music recommendation system based on social relations and trends after analyzing 4.6 million tweets",
+        "Designed and developed context-aware music recommendation system imitating radio broadcast song selection and registered a jointly owned patent with NAVER Cooperation which is Korean top internet company",
+        "Designed and implemented geographical music preference visualization scheme Signal Processing and Content Analysis",
+        "Designed and implemented methods for efficient representation of complex music audio signals",
+        "music mood sequence generation improving music matching accuracy by +14%(70% to 84%, in comparison with segment-based approach) and music structure analysis having 72% segmentation accuracy",
+        "Designed and implemented a music emotion recognition scheme using the fuzzy inference technique achieving 12% error rate between user and recognized emotion state"
+      ]
+    }
+  ]
 }

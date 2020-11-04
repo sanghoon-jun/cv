@@ -73,6 +73,24 @@
   ],
   "work_experience": [
     {
+      "start_at": "2018",
+      "end_at": "present",
+      "position": "Director of Technology",
+      "company": "Forkable",
+      "summary": "Work with the team for building a completely automated platform for serving customizable lunched for teams and individuals",
+      "achievements": [
+     ]
+    },
+    {
+      "start_at": "2018",
+      "end_at": "2018",
+      "position": "Data Scientist",
+      "company": "Forkable",
+      "summary": "Designed and implemented the core recommender system for the million's lunch",
+      "achievements": [
+     ]
+    },
+    {
       "start_at": "2017",
       "end_at": "2018",
       "position": "Senior Researcher",
